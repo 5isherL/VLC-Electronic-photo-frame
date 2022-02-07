@@ -1,5 +1,7 @@
 # VLC-Electronic-photo-frame Project
 
+![VLC-Electronic-photo-frame Demo picture](/STL 3D Files/Demo.jpg"VLC-Electronic-photo-frame")
+
 This is a project using led to transmit pictures to STM32F469DISCO kit through UART protocol.
 
 > Copy these ST generate file -> STM32Cube_FW_F4_V1.21.0\Projects\STM32469I-Discovery\Applications\LibJPEG\LibJPEG_Decoding -> to my project folder
