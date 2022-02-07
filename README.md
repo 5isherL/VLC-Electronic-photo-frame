@@ -16,6 +16,10 @@ This is a project using led to transmit pictures to STM32F469DISCO kit through U
 
 - PCTool.py -> This is a Python script for PC to test the transmit function.
 
+### STL 3D Files
+
+- This folder contain 3d files and Demo picture.
+
 ## Architecture
 
 |Name|Layer|
