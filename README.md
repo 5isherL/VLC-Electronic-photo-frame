@@ -8,13 +8,13 @@ This is a project using led to transmit pictures to STM32F469DISCO kit through U
 
 ### STM32F469 Code
 
-/Inc
-/Src
-/SW4STM32
+- /Inc
+- /Src
+- /SW4STM32
 
 ### PCTool
 
-PCTool.py -> This is a Python script for PC to test the transmit function.
+- PCTool.py -> This is a Python script for PC to test the transmit function.
 
 ## Architecture
 
