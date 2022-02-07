@@ -1,6 +1,7 @@
 # VLC-Electronic-photo-frame Project
 
-![VLC-Electronic-photo-frame Demo picture](/'STL 3D Files'/Demo.jpg"VLC-Electronic-photo-frame")
+![VLC-Electronic-photo-frame Demo picture](https://github.com/5isherL/
+VLC-Electronic-photo-frame/blob/master/"STL 3D Files"/Demo.jpg?raw=true)
 
 This is a project using led to transmit pictures to STM32F469DISCO kit through UART protocol.
 
