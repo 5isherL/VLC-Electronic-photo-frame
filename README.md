@@ -4,7 +4,20 @@ This is a project using led to transmit pictures to STM32F469DISCO kit through U
 
 > Copy these ST generate file -> STM32Cube_FW_F4_V1.21.0\Projects\STM32469I-Discovery\Applications\LibJPEG\LibJPEG_Decoding -> to my project folder
 
+## Files
+
+### STM32F469 Code
+
+/Inc
+/Src
+/SW4STM32
+
+### PCTool
+
+PCTool.py -> This is a Python script for PC to test the transmit function.
+
 ## Architecture
+
 |Name|Layer|
 |---|---|
 |LIB JPEG    |Middleware|
